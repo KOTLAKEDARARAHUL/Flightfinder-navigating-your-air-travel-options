@@ -1,6 +1,6 @@
 # ✈️ FlightFinder – Navigating Your Air Travel Options
 
-FlightFinder is a full-stack **Flight Booking Web Application** developed using the **MERN stack (MongoDB, Express.js, React.js, and Node.js)**.  
+FlightFinder is a full-stack **Flight Booking Web Application** developed using the **MERN stack (MongoDB, Express.js, React.js, and Node.js)**. 
 The application provides a smooth and user-friendly platform for users to search, book, and manage flight tickets, while admins can manage flights and monitor bookings.
 
 This project was developed as part of the **SmartBridge Internship Program** to gain real-world experience in full-stack web development.
