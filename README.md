@@ -154,7 +154,7 @@ Real-world project structure and flow
 👨‍💻 Developed By
 
 Kotla Kedara Rahul
-Computer Science Technology Student
+Computer Science Engineering Student
 SmartBridge Internship Project
 
 📜 Acknowledgement
