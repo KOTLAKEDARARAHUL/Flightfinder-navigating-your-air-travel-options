@@ -1,4 +1,3 @@
-# VANKAYALA-GANESH-SIVA-SAI-KRISHNA-flightfinder-navigating-your-air-travel-options
 # ✈️ FlightFinder – Navigating Your Air Travel Options
 
 FlightFinder is a full-stack **Flight Booking Web Application** developed using the **MERN stack (MongoDB, Express.js, React.js, and Node.js)**.  
@@ -72,8 +71,8 @@ FlightFinder
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/saikrishnavankayala/VANKAYALA-GANESH-SIVA-SAI-KRISHNA-flightfinder-navigating-your-air-travel-options.git
-cd VANKAYALA-GANESH-SIVA-SAI-KRISHNA-flightfinder-navigating-your-air-travel-options
+git clone https://github.com/Flightfinder-navigating-your-air-travel-options.git
+cd Flightfinder-navigating-your-air-travel-options
 2️⃣ Start MongoDB
 
 Make sure MongoDB is running locally:
