@@ -153,8 +153,8 @@ Real-world project structure and flow
 
 👨‍💻 Developed By
 
-Sai Krishna Vankayala
-Computer Science Engineering Student
+Kotla Kedara Rahul
+Computer Science Technology Student
 SmartBridge Internship Project
 
 📜 Acknowledgement
